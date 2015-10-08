@@ -3,6 +3,6 @@ Firefox addon to add "Close tabs to the left" option to tab context menu. Origin
 
 Given that I could not get a hold of the author to this addon: https://addons.mozilla.org/ro/firefox/addon/close-tabs-to-the-left/?src=api I asked Noitidart for help in creating a new extension which I could modify.
 
-Project © 2015 Noitidart for the original version and © 2015 Jobava for subsequent changes.
+Project © 2015 zb3 ( https://addons.mozilla.org/ro/firefox/user/zb3/ ) for the original version, which is licensed under the MIT X11 license: http://opensource.org/licenses/mit-license.php
 
-The license is GPLv3, feel free to modify, copy and distribute this as you wish, provided you preserve these rights for your modifications.
+© 2015 Jobava and Noitidart for subsequent changes and these changes are released under GPLv3: https://www.gnu.org/licenses/gpl-3.0.en.html .
