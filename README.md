@@ -1,5 +1,5 @@
 # close-tabs-to-the-left
-Firefox addon to add "Close tabs to the left" option to tab context menu. Original author is Noitidart.
+Firefox addon to add "Close tabs to the left" option to tab context menu. Original author is zb3.
 
 Given that I could not get a hold of the author to this addon: https://addons.mozilla.org/ro/firefox/addon/close-tabs-to-the-left/?src=api I asked Noitidart for help in creating a new extension which I could modify.
 
